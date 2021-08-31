@@ -3,7 +3,7 @@
 #include <fstream>
 #include <sstream>
 #include <vector>
-#include "model.h"
+#include "Model.h"
 
 Model::Model(const char* filename) : verts_(), faces_() {
     std::ifstream in;
@@ -17,7 +17,7 @@ Model::Model(const char* filename) : verts_(), faces_() {
         if (!line.compare(0, 2, "v ")) {
             iss >> trash;
             Vec3f v;
-            for (int i = 0; i < 3; i++) iss >> v.raw[i];
+            for (int i = 0; i < 3; i++) iss >> v[i];
             verts_.push_back(v);
         }
         else if (!line.compare(0, 2, "f ")) {

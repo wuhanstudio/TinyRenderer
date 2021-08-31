@@ -22,3 +22,9 @@ Step 1: Bresenham’s Line Drawing Algorithm
 Step 2: Triangle rasterization and back face culling
 
 ![](docs/step2.jpg)
+
+
+
+Step 3: Hidden faces removal (z buffer)
+
+![](docs/step3.jpg)

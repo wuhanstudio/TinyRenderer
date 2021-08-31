@@ -139,10 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Model.cpp" />
     <ClCompile Include="TGAImage.cpp" />
     <ClCompile Include="TinyRenderer.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="geometry.h" />
+    <ClInclude Include="Model.h" />
     <ClInclude Include="TGAImage.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

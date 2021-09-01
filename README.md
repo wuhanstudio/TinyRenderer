@@ -46,3 +46,9 @@ Step 5: Moving the camera
 Step 6: Shaders for the software renderer
 
 ![](docs/step6.jpg)
+
+
+
+Step 6+: Tangent space normal mapping
+
+![](docs/step6+.jpg)

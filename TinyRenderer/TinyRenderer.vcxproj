@@ -141,12 +141,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Geometry.cpp" />
+    <ClCompile Include="GL.cpp" />
     <ClCompile Include="Model.cpp" />
     <ClCompile Include="TGAImage.cpp" />
     <ClCompile Include="TinyRenderer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="geometry.h" />
+    <ClInclude Include="GL.h" />
     <ClInclude Include="Model.h" />
     <ClInclude Include="TGAImage.h" />
   </ItemGroup>

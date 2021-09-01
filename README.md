@@ -40,3 +40,9 @@ Step 4: Perspective projection
 Step 5: Moving the camera
 
 ![](docs/step5.jpg)
+
+
+
+Step 6: Shaders for the software renderer
+
+![](docs/step6.jpg)

@@ -28,3 +28,9 @@ Step 2: Triangle rasterization and back face culling
 Step 3: Hidden faces removal (z buffer)
 
 ![](docs/step3.jpg)
+
+
+
+Step 4: Perspective projection
+
+![](docs/step4.jpg)

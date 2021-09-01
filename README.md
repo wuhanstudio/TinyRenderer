@@ -34,3 +34,9 @@ Step 3: Hidden faces removal (z buffer)
 Step 4: Perspective projection
 
 ![](docs/step4.jpg)
+
+
+
+Step 5: Moving the camera
+
+![](docs/step5.jpg)
